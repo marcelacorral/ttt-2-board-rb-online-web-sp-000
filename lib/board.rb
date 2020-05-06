@@ -1,6 +1,6 @@
 # Define the variable board below.
 board="board"
-row = [" "," "," "]
+row = [" "," "," "," "," "," "," "," ", " "]
 # Postion 1: Left 
 row [0]
 # Postion 2: Middle 
