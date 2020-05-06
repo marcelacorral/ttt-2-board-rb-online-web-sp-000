@@ -8,17 +8,17 @@ row [1]
 # Postion 3: Right 
 row [2]
 # Postion 4: Left 
-row [0]
+row [3]
 # Postion 5: Middle 
-row [1]
+row [4]
 # Position 6: Right 
-row [2]
+row [5]
 # Postion 7: Left 
-row [0]
+row [6]
 # Postion 8: Middle
-row [1]
+row [7]
 # Position 9: Right 
-row [2]
+row [8]
 
 # Move X to the Postion 2 , Middle 
 row [1] = "X" 
