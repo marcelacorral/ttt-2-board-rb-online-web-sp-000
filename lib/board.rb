@@ -8,19 +8,19 @@ row [1]
 # Postion 3: Right 
 row [2]
 # Postion 4: Left 
-row [3]
+row [0]
 # Postion 5: Middle 
-row [4]
+row [1]
 # Position 6: Right 
-row [5]
+row [2]
 # Postion 7: Left 
-row [6]
+row [0]
 # Postion 8: Middle
-row [7]
+row [1]
 # Position 9: Right 
-row [8]
+row [2]
 
 # Move X to the Postion 2 , Middle 
 row [1] = "X" 
 row #=> [" " , "X" , " "] 
-board = [" "," "," "]
+board = [" "," "," "," "," "," "]
