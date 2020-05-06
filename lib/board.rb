@@ -7,6 +7,13 @@ row [0]
 row [1]
 # Postion 3: Right 
 row [2]
+# Postion 4: Left 
+row [0]
+# Postion 5: Middle 
+row [1]
+# Position 6: Right 
+row [2]
+
 # Move X to the Postion 2 , Middle 
 row [1] = "X" 
 row #=> [" " , "X" , " "] 
